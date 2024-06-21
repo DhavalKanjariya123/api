@@ -1,0 +1,55 @@
+{
+  "adddata": [
+    {
+      "id": "416d",
+      "name": "山田 太郎",
+      "location": "ニューヨーク",
+      "gender": "男性",
+      "language": "英語",
+      "avaday": "月曜日"
+    },
+    {
+      "id": "ebd0",
+      "name": "鈴木 さくら",
+      "location": "ロサンゼルス",
+      "gender": "女性",
+      "language": "スペイン語",
+      "avaday": "火曜日"
+    },
+    {
+      "id": "3010",
+      "name": "佐藤 健太",
+      "location": "シカゴ",
+      "gender": "女性",
+      "language": "中国語",
+      "avaday": "水曜日"
+    },
+    {
+      "id": "cd38",
+      "name": "山田 太郎\t",
+      "location": "サンフランシスコ",
+      "gender": "男性",
+      "language": "英語",
+      "avaday": "金曜日"
+    },
+    {
+      "id": "0f92",
+      "name": "佐藤 健太\t",
+      "location": "ロサンゼルス",
+      "gender": "男性",
+      "language": "フランス語",
+      "avaday": "水曜日"
+    },
+    {
+      "id": "37f7",
+      "name": "Dhaval Kanjariya",
+      "location": "ニューヨーク",
+      "gender": "男性",
+      "language": "英語",
+      "avaday": "月曜日"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
